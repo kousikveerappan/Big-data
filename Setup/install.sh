@@ -37,7 +37,7 @@ if [ $? -eq 0 ]; then
         echo "pyspark-notebook container is running and healthy. Fetching logs..."
         sudo docker logs $container_id
     else
-        echo "pyspark-notebook container is not healthy or not running. Please check the container status."
+        echo "===================================================================================="
     fi
 else
     echo "Docker is not running. Please check the Docker installation and try again."
