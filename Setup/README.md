@@ -17,7 +17,7 @@
 
 ## 3. Log in to the Instance
 
-![Sample gif to install](/Docs/sample.gif)
+![Sample gif to install](Big-data/Docs/sample.gif)
 
 1. Open a terminal on your local machine.
 2. SSH into the instance using the public IP address (replace `your_instance_ip` with the actual IP address):
@@ -53,7 +53,7 @@
     ```bash
     sudo ./install.sh
     ```
-    ![Press enter to continue](/Docs/hit_enter.png)
+    ![Press enter to continue](Big-data/Docs/hit_enter.png)
      - Press enter to continue the installation.
      
  
@@ -83,8 +83,6 @@ Modify this URL by replacing 127.0.0.1 with your instance's public IP address an
 http://<instance_public_ip>:8888/lab?token=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ```
 Make sure that the inbound rules for ports 8888, 4040, and 4041 are enabled in your cloud provider's security group settings to access Jupyter PySpark Notebook from your browser.
-
-
 
 
 
