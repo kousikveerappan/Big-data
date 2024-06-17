@@ -37,27 +37,26 @@ Certainly! Here's how you can update the `Readme.md` file with Markdown links to
 
 ### Setup
 
-- **install.sh**: [Installation script](Big-data/Setup/install.sh).
-- **README.md**: [Setup instructions](Big-data/Setup/README.md) for the installation script.
+- **install.sh**: [Installation script](/Setup/install.sh).
+- **README.md**: [Setup instructions](/Setup/README.md) for the installation script.
 
 ### Project
 
 #### Datasets
 
-- [car.csv](Big-data/Project/Datasets/car.csv)
-- [seeds_dataset.csv](Big-data/Project/Datasets/seeds_dataset.csv)
+- [car.csv](/Project/Datasets/car.csv)
+- [seeds_dataset.csv](/Project/Datasets/seeds_dataset.csv)
 
 #### Notebooks
 
-- [pyspark graphX.ipynb](Big-data/Project/pyspark%20graphX.ipynb): Notebook for GraphX library usage.
-- [pyspark ml.ipynb](Big-data/Project/pyspark%20ml.ipynb): Notebook for MLlib machine learning tasks.
-- [pyspark sql.ipynb](Big-data/Project/pyspark%20sql.ipynb): Notebook for PySpark SQL operations.
-- [pyspark streaming.ipynb](Big-data/Project/pyspark%20streaming.ipynb): Notebook for PySpark Streaming.
+- [pyspark graphX.ipynb](/Project/pyspark%20graphX.ipynb): Notebook for GraphX library usage.
+- [pyspark ml.ipynb](/Project/pyspark%20ml.ipynb): Notebook for MLlib machine learning tasks.
+- [pyspark sql.ipynb](/Project/pyspark%20sql.ipynb): Notebook for PySpark SQL operations.
+- [pyspark streaming.ipynb](/Project/pyspark%20streaming.ipynb): Notebook for PySpark Streaming.
 
 #### Scripts
 
-- [streaming.py](Big-data/Project/streaming.py): Python script for streaming data processing.
-
+- [streaming.py](/Project/streaming.py): Python script for streaming data processing.
 
 
 
