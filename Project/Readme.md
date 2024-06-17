@@ -5,7 +5,7 @@
 Welcome to the PySpark project! PySpark is a powerful tool for big data processing and analysis, built on top of Apache Spark. It allows you to work with large datasets in a distributed computing environment.
 
 This project demonstrates various aspects of PySpark through different notebooks and scripts. Below is a summary of what each notebook covers:
-![Compents](Big-data/Docs/compents.png)
+![Compents](../Docs/compents.png)
 
 ## Notebooks
 
