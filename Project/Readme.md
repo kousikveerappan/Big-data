@@ -9,13 +9,13 @@ This project demonstrates various aspects of PySpark through different notebooks
 
 ## Notebooks
 
-- **[pyspark graphX.ipynb](pyspark%20graphX.ipynb)**: This notebook explores graph processing capabilities using PySpark's GraphX library.
-
 - **[pyspark ml.ipynb](pyspark%20ml.ipynb)**: This notebook focuses on machine learning tasks with PySpark's MLlib library, covering scalable algorithms and utilities.
 
 - **[pyspark sql.ipynb](pyspark%20sql.ipynb)**: This notebook demonstrates SQL operations using PySpark SQL, allowing structured data querying and manipulation.
 
 - **[pyspark streaming.ipynb](pyspark%20streaming.ipynb)**: This notebook deals with real-time data processing using PySpark Streaming, handling continuous data streams efficiently.
+
+- - **[pyspark graphX.ipynb](pyspark%20graphX.ipynb)**: This notebook explores graph processing capabilities using PySpark's GraphX library.
 
 ## Scripts
 
