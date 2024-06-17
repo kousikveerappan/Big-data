@@ -53,7 +53,7 @@
     ```bash
     sudo ./install.sh
     ```
-    ![Press enter to continue](Big-data/Docs/hit_enter.png)
+    ![Press enter to continue](../Docs/hit_enter.png)
      - Press enter to continue the installation.
      
  
