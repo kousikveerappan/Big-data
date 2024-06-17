@@ -29,9 +29,6 @@ The project directory is structured as follows:
 
 ```
 
-Certainly! Here's how you can update the `Readme.md` file with Markdown links to each file in your project:
-
-
 
 ## Components
 
@@ -49,10 +46,10 @@ Certainly! Here's how you can update the `Readme.md` file with Markdown links to
 
 #### Notebooks
 
-- [pyspark graphX.ipynb](/Project/pyspark%20graphX.ipynb): Notebook for GraphX library usage.
 - [pyspark ml.ipynb](/Project/pyspark%20ml.ipynb): Notebook for MLlib machine learning tasks.
 - [pyspark sql.ipynb](/Project/pyspark%20sql.ipynb): Notebook for PySpark SQL operations.
 - [pyspark streaming.ipynb](/Project/pyspark%20streaming.ipynb): Notebook for PySpark Streaming.
+- [pyspark graphX.ipynb](/Project/pyspark%20graphX.ipynb): Notebook for GraphX library usage.
 
 #### Scripts
 
